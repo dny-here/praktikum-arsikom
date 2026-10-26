@@ -1,7 +1,7 @@
 // Praktikum EL3011 Arsitektur Sistem Komputer
 // Modul : 1
 // Percobaan : 1
-// Tanggal : 21 Oktober 2026
+// Tanggal : 28 Oktober 2026
 // Nama (NIM) 1 : Danny Rahmat Pratama (13224019)
 // Nama (NIM) 2 : Aziiz Adityatama (13224070)
 // Nama File : multiplexer2_to_1.v
