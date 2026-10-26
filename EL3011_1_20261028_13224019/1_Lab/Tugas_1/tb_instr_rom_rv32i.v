@@ -1,3 +1,11 @@
+// Praktikum EL3011 Arsitektur Sistem Komputer
+// Modul : 1
+// Percobaan : 1
+// Tanggal : 28 Oktober 2026
+// Nama (NIM) 1 : Danny Rahmat Pratama (13224019)
+// Nama (NIM) 2 : Aziiz Adityatama (13224070)
+// Nama File : tb_instr_rom_rv32i.v
+// Deskripsi : Testbench for Instruction ROM 32x32 Single-Cycle RISC-V (RV32I)
 module tb_instr_rom_rv32i;
 
 // Variables for testbench
