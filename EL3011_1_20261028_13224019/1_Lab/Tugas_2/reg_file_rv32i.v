@@ -10,7 +10,7 @@
 // x0 selalu 0; write @posedge, read @negedge
 `timescale 1ns/1ps
 
-module reg_file_rv32i (EL3011_1_20261028_13224019/0_Prelab/Tugas_7/tb_reg_file_rv32i.v
+module reg_file_rv32i (
  input wire clock, // global clock
  input wire cu_rdwrite, // write enable dari CU
  input wire [4:0] rs1_addr, // alamat baca port 1
